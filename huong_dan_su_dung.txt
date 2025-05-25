@@ -1,0 +1,17 @@
+//ĐỒ ÁN: NHẬN DIỆN NGÔN NGỮ KÝ HIỆU
+
+Ghi chú: Model đã được train và lưu ở file myModel.h5 không cần phải train lại
+
+B1: Mở file 'nhandien.py' thay doi duong dan vao thu muc
+
+model_path = 'models/mymodel.h5'
+data_dir = 'data'
+
+B2: Chay va kiem tra thu
+
+B3: Nhan 'q' + enter de thoat
+
+----------------------------------------------------------
+
+- Do gioi han cua RAM phan cung nen da rut 8000 data ve con 700 data nen do chinh xac co phan han che
+- Chi nhan dien tu 1 den 10
